@@ -1,0 +1,4 @@
+a = int(input())
+b = int(input())
+formula = a/100*b
+print(a,"% of ",b,"is",formula)
